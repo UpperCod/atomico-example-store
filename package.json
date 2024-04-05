@@ -9,7 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@atomico/hooks": "^4.1.2",
     "@atomico/site": "^0.6.0",
+    "@atomico/store": "^2.0.0",
+    "@formas/components": "^1.0.1",
     "atomico": "latest"
   },
   "devDependencies": {
